@@ -1,0 +1,16 @@
+[project]
+name = "task8hackathon"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "joblib>=1.5.2",
+    "langchain>=1.0.7",
+    "langchain-core>=1.0.5",
+    "langchain-ollama>=1.0.0",
+    "numpy>=2.3.5",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+    "streamlit>=1.51.0",
+]
